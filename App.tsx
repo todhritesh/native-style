@@ -12,9 +12,6 @@ export default function App() {
             <Post reactionRef={reactionRef} />
             <Post reactionRef={reactionRef} />
             <Post reactionRef={reactionRef} />
-            <Post reactionRef={reactionRef} />
-            <Post reactionRef={reactionRef} />
-            <Post reactionRef={reactionRef} />
           </VStack>
         </ScrollView>
       </Box>
